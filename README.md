@@ -4,7 +4,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=13" alt="Tecnologias" />
 </p>
 
-Engenheiro de Software full stack, com foco em **React Native, Next.js, Node.js e PostgreSQL**. Construo SaaS, APIs e apps mobile sob medida na **Adapti Code**, em Anápolis - GO.
+Engenheiro de Software full stack, com foco em **React Native, Next.js, Node.js e PostgreSQL**. Construo SaaS, APIs e apps mobile sob medida na **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO.
 
 Na visão geral abaixo você encontra o que tenho construído e como falar comigo:
 
@@ -14,7 +14,7 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Servix**](https://github.com/WarleyCoutinho/servix) | SaaS de agendamento para barbearias, salões e estética, com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js 16, Prisma, PostgreSQL, Better Auth, Stripe |
+| [**Servix**](https://www.servix.app.br) | SaaS multi-tenant de agendamento para barbearias, salões e estética, com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js 16, Prisma, PostgreSQL, Better Auth, Stripe |
 | [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Microsserviço que conecta o WhatsApp de cada profissional e envia a agenda para grupos | Fastify, Baileys, TypeScript |
 | [**Products API**](https://github.com/WarleyCoutinho/api-products) | API REST de referência com autenticação por sessão, validação com Zod e docs OpenAPI | Fastify 5, Prisma 7, Better Auth |
 | [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products) | Painel de produtos consumindo a API com cliente gerado via Orval | Next.js 16, TanStack Query, shadcn/ui |
@@ -31,12 +31,18 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 </p>
 <p>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/21st.dev-000000?style=flat-square" alt="21st.dev" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
-  <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide" />
+  <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="lucide-react" />
+  <img src="https://img.shields.io/badge/Simple%20Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" alt="Simple Icons" />
+  <img src="https://img.shields.io/badge/next--themes-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next-themes" />
+  <img src="https://img.shields.io/badge/sonner-000000?style=flat-square" alt="sonner" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-38BDF8?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Mobile%20First-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile First" />
 </p>
 
 #### Back-end
@@ -46,6 +52,7 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 </p>
 <p>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square" alt="Better Auth" />
   <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger / OpenAPI" />
   <img src="https://img.shields.io/badge/Orval-000000?style=flat-square" alt="Orval" />
@@ -55,7 +62,8 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/iOS%20%26%20Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="iOS e Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
 #### Integrações
@@ -87,7 +95,7 @@ Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiênci
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.adapticode.com.br">
-    <img src="https://img.shields.io/badge/Adapti%20Code-4F46E5?style=for-the-badge&logo=globe&logoColor=white" alt="Adapti Code" />
+    <img src="https://img.shields.io/badge/Adapti%20Code-4F46E5?style=for-the-badge" alt="Adapti Code" />
   </a>
   <a href="mailto:contatoadapticode@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
