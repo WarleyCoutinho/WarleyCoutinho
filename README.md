@@ -100,7 +100,7 @@ Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiênci
   <a href="mailto:contatoadapticode@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://instagram.com/coutinhowarley">
+  <a href="https://www.instagram.com/warlycoutinho/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
