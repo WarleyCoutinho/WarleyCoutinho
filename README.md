@@ -36,10 +36,10 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
-  <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="lucide-react" />
+  <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide" />
   <img src="https://img.shields.io/badge/Simple%20Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" alt="Simple Icons" />
   <img src="https://img.shields.io/badge/next--themes-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next-themes" />
-  <img src="https://img.shields.io/badge/sonner-000000?style=flat-square" alt="sonner" />
+  <img src="https://img.shields.io/badge/Sonner-000000?style=flat-square" alt="Sonner" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
   <img src="https://img.shields.io/badge/Responsive%20Design-38BDF8?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/Mobile%20First-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile First" />
@@ -52,9 +52,12 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 </p>
 <p>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square" alt="Microservices" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Better%20Auth-000000?style=flat-square" alt="Better Auth" />
   <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger / OpenAPI" />
+  <img src="https://img.shields.io/badge/Scalar%20API%20Reference-0F0F0F?style=flat-square" alt="Scalar API Reference" />
   <img src="https://img.shields.io/badge/Orval-000000?style=flat-square" alt="Orval" />
 </p>
 
@@ -69,16 +72,21 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 #### Integrações
 
 <p>
+  <img src="https://img.shields.io/badge/WhatsApp%20API%20oficial-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API oficial" />
+  <img src="https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar" />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
-#### Ferramentas
+#### Infra & ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,pnpm" alt="Ferramentas" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
 </p>
 
 ---
