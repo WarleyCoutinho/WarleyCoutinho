@@ -1,7 +1,7 @@
 ### Olá, meu nome é Warley Coutinho! 👋
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=13" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=13" alt="Tecnologias" />
 </p>
 
 Engenheiro de Software full stack, com foco em **Node.js, Fastify, Next.js, React, React Native e PostgreSQL**. Construo SaaS, APIs e apps mobile sob medida na **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO.
