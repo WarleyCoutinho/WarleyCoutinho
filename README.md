@@ -6,11 +6,37 @@
 
 Engenheiro de Software full stack, com foco em **Node.js, Fastify, Next.js, React, React Native e PostgreSQL**. Construo SaaS, APIs e apps mobile sob medida na **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO.
 
-Na visão geral abaixo você encontra o que tenho construído e como falar comigo:
+<p align="center">
+  <a href="https://www.linkedin.com/in/coutinho-warley"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://warley-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/warlycoutinho/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:contatoadapticode@gmail.com"><img src="https://img.shields.io/badge/-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 👨🏻‍💻 Sobre mim
+
+Sou engenheiro de software full stack com cerca de 5 anos de experiência, apaixonado por construir soluções modernas, escaláveis e bem arquitetadas. Já atuei em empresas e projetos de diferentes tamanhos e hoje sou fundador da **Adapti Code**, onde desenho e entrego produtos de ponta a ponta: do banco de dados ao app no celular.
+
+Meu principal produto é o **Servix**, um SaaS de agendamento que já está em produção com 5 salões e barbearias.
+
+Estou sempre aprendendo e buscando evoluir como profissional. Estou aberto a oportunidades **PJ ou CLT**.
+
+---
+
+## 📚 O que você vai encontrar aqui?
+
+Este GitHub é mais do que um repositório de código: reflete minha trajetória e meu compromisso com um desenvolvimento limpo e com propósito.
+
+- Projetos reais, usados por clientes em produção
+- APIs REST documentadas com OpenAPI
+- Validação e tipagem de ponta a ponta com TypeScript e Zod
+- Experimentos, estudos técnicos e boas práticas do dia a dia
+
+---
+
+## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -22,7 +48,7 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 
 ---
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 #### Front-end
 
@@ -45,7 +71,7 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
   <img src="https://img.shields.io/badge/Mobile%20First-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile First" />
 </p>
 
-#### Back-end
+#### Back-end & bancos de dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="Back-end" />
@@ -91,9 +117,18 @@ Na visão geral abaixo você encontra o que tenho construído e como falar comig
 
 ---
 
-### 📫 Vamos conversar?
+## 🚀 Minhas estatísticas no GitHub
 
-Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência e trajetória.
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WarleyCoutinho&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats do Warley Coutinho" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarleyCoutinho&layout=compact&theme=dracula&langs_count=8" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 📫 Vamos conversar?
+
+Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência e trajetória. Se quiser conversar, colaborar ou tirar dúvidas, é só [me mandar um e-mail](mailto:contatoadapticode@gmail.com) ou me chamar nas redes. Estou sempre aberto a boas conversas e oportunidades interessantes.
 
 <p>
   <a href="https://www.linkedin.com/in/coutinho-warley">
