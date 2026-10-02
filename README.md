@@ -1,9 +1,3 @@
-Sim. O Fastify ficou preto porque o `Simple Icons` recebeu `000000`. No GitHub em **modo escuro**, isso praticamente desaparece.
-
-Vou usar o ícone do Fastify em **branco**, que funciona melhor no dark mode. E na seção Mobile deixei **somente React Native**, removendo iOS e Android.
-
-Também removi a repetição desnecessária do React Native no topo: ele fica na seção Mobile.
-
 # Olá, meu nome é Warley Coutinho! 👋
 
 <p>
@@ -58,7 +52,7 @@ No desenvolvimento web, trabalho principalmente com:
 
 Sou fundador da **Adapti Code**, onde desenvolvo soluções digitais sob medida e produtos próprios, atuando de ponta a ponta — da ideia e arquitetura ao desenvolvimento e deploy.
 
-Também desenvolvo aplicações mobile utilizando **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
+Também desenvolvo aplicações mobile com **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
 
 Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **PJ ou CLT**, projetos e colaborações.
 
@@ -158,7 +152,7 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-**React Native** para desenvolvimento de aplicações mobile.
+Desenvolvimento de aplicações mobile com **React Native** e **TypeScript**.
 
 ---
 
