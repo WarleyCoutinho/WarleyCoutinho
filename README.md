@@ -1,7 +1,12 @@
 # Olá, meu nome é Warley Coutinho! 👋
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastify,postgres,prisma,docker,git,github,vercel,pnpm&perline=16" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=16" alt="Tecnologias" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 **Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
@@ -11,10 +16,18 @@ Construo aplicações web, APIs, automações e soluções sob medida, atuando d
 Sou fundador da **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO, onde desenvolvo soluções digitais para negócios e produtos próprios.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coutinho-warley"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://warley-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.instagram.com/warlycoutinho/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:contatoadapticode@gmail.com"><img src="https://img.shields.io/badge/-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/coutinho-warley">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://warley-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.instagram.com/warlycoutinho/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:contatoadapticode@gmail.com">
+    <img src="https://img.shields.io/badge/-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
 </p>
 
 ---
@@ -40,7 +53,7 @@ No desenvolvimento web, trabalho principalmente com:
 
 Sou fundador da **Adapti Code**, onde desenvolvo soluções digitais sob medida e produtos próprios, atuando de ponta a ponta — da ideia e arquitetura ao desenvolvimento e deploy.
 
-Também desenvolvo projetos mobile utilizando **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
+Também desenvolvo aplicações mobile utilizando **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
 
 Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **PJ ou CLT**, projetos e colaborações.
 
@@ -80,7 +93,7 @@ Aqui você encontrará:
 
 ## 🛠️ Tecnologias
 
-### Front-end
+### 🎨 Front-end
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS" />
@@ -97,14 +110,14 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/next--themes-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next-themes" />
   <img src="https://img.shields.io/badge/Sonner-000000?style=flat-square" alt="Sonner" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-38BDF8?style=flat-square&logo=css3&logoColor=white" alt="Responsive Design" />
-  <img src="https://img.shields.io/badge/Mobile%20First-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile First" />
 </p>
 
-### Back-end & APIs
+---
+
+### ⚙️ Back-end & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,prisma" alt="Node.js, Fastify, PostgreSQL e Prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="Node.js, PostgreSQL e Prisma" />
 </p>
 
 <p>
@@ -118,7 +131,9 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/Orval-000000?style=flat-square" alt="Orval" />
 </p>
 
-### Banco de dados
+---
+
+### 🗄️ Banco de dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,prisma" alt="PostgreSQL e Prisma" />
@@ -128,13 +143,12 @@ Aqui você encontrará:
 * **Prisma ORM**
 * Modelagem relacional
 * Migrations
-* Queries e persistência de dados
+* Persistência e consultas
+* Relacionamentos e integridade de dados
 
-### Mobile
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-</p>
+### 📱 Mobile
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -142,7 +156,11 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
-### Integrações
+**React Native** para desenvolvimento de aplicações mobile para **iOS e Android**.
+
+---
+
+### 🔗 Integrações
 
 <p>
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -151,7 +169,9 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
-### Infra & ferramentas
+---
+
+### ☁️ Infra & ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,pnpm" alt="Git, GitHub, Docker, Vercel e pnpm" />
@@ -167,7 +187,7 @@ Aqui você encontrará:
 
 ## 🧩 Arquitetura e desenvolvimento
 
-Tenho interesse especial em construir aplicações com uma arquitetura clara e sustentável.
+Tenho interesse especial em construir aplicações com uma arquitetura clara, modular e sustentável.
 
 ### Front-end
 
@@ -184,6 +204,7 @@ Priorizando:
 * Validação
 * Consumo de APIs
 * UI consistente e reutilizável
+* Design responsivo e Mobile First
 
 ### Back-end
 
@@ -201,6 +222,38 @@ Priorizando:
 * Tratamento de erros
 * Persistência relacional
 * Integrações externas
+* Observabilidade e logs
+
+### Mobile
+
+**React Native → TypeScript → iOS + Android**
+
+Desenvolvendo aplicações mobile com foco em:
+
+* Reutilização de código
+* Componentização
+* Integração com APIs
+* Experiência responsiva
+* Integração com serviços externos
+
+---
+
+## 💡 Princípios de desenvolvimento
+
+Alguns princípios que procuro aplicar nos meus projetos:
+
+* **Clean Code**
+* **SOLID**
+* **DRY**
+* **KISS**
+* **Type Safety**
+* **Separation of Concerns**
+* **Código simples e legível**
+* **Arquitetura modular**
+* **Validação de dados**
+* **Documentação de APIs**
+* **Testabilidade**
+* **Manutenibilidade**
 
 ---
 
@@ -213,6 +266,14 @@ Priorizando:
 
 ---
 
+## 📊 Atividade
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarleyCoutinho&theme=dracula" alt="Gráfico de atividade do GitHub" />
+</p>
+
+---
+
 ## 📫 Vamos conversar?
 
 Se quiser conhecer melhor meu trabalho, experiência ou projetos, você pode me encontrar nos canais abaixo.
@@ -221,16 +282,26 @@ Se quiser conhecer melhor meu trabalho, experiência ou projetos, você pode me 
   <a href="https://www.linkedin.com/in/coutinho-warley">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://warley-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
+
   <a href="https://www.adapticode.com.br">
     <img src="https://img.shields.io/badge/Adapti%20Code-4F46E5?style=for-the-badge" alt="Adapti Code" />
   </a>
+
   <a href="mailto:contatoadapticode@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
+
   <a href="https://www.instagram.com/warlycoutinho/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo software com código, arquitetura e propósito. 🚀</i>
 </p>
