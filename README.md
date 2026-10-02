@@ -1,14 +1,18 @@
-### Olá, meu nome é Warley Coutinho! 👋
+# Olá, meu nome é Warley Coutinho! 👋
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,fastify,postgres,prisma,docker,git,github,vercel,pnpm&perline=16" alt="Tecnologias" />
 </p>
 
-Engenheiro de Software full stack, com foco em **Node.js, Fastify, Next.js, React, React Native e PostgreSQL**. Construo SaaS, APIs e apps mobile sob medida na **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO.
+**Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
+
+Construo aplicações web, APIs, automações e soluções sob medida, atuando desde a arquitetura e modelagem de dados até o desenvolvimento do frontend, backend e integrações.
+
+Sou fundador da **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO, onde desenvolvo soluções digitais para negócios e produtos próprios.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coutinho-warley"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://warley-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://warley-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.instagram.com/warlycoutinho/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:contatoadapticode@gmail.com"><img src="https://img.shields.io/badge/-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
@@ -17,44 +21,71 @@ Engenheiro de Software full stack, com foco em **Node.js, Fastify, Next.js, Reac
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou engenheiro de software full stack com cerca de 5 anos de experiência, apaixonado por construir soluções modernas, escaláveis e bem arquitetadas. Já atuei em empresas e projetos de diferentes tamanhos e hoje sou fundador da **Adapti Code**, onde desenho e entrego produtos de ponta a ponta: do banco de dados ao app no celular.
+Sou **Engenheiro de Software Full Stack**, com cerca de 5 anos de experiência no desenvolvimento de sistemas e aplicações modernas.
 
-Meu principal produto é o **Servix**, um SaaS de agendamento que já está em produção com 5 salões e barbearias.
+Minha atuação envolve principalmente **frontend, backend, APIs, banco de dados, integrações e automações**, sempre buscando código limpo, tipado e arquiteturas fáceis de manter e evoluir.
 
-Estou sempre aprendendo e buscando evoluir como profissional. Estou aberto a oportunidades **PJ ou CLT**.
+No desenvolvimento web, trabalho principalmente com:
+
+* **HTML, CSS e JavaScript**
+* **TypeScript**
+* **React e Next.js**
+* **Tailwind CSS e shadcn/ui**
+* **Node.js e Fastify**
+* **PostgreSQL e Prisma**
+* **APIs REST e OpenAPI**
+* **Autenticação e autorização**
+* **Integrações com serviços externos**
+* **Docker e ambientes de produção**
+
+Sou fundador da **Adapti Code**, onde desenvolvo soluções digitais sob medida e produtos próprios, atuando de ponta a ponta — da ideia e arquitetura ao desenvolvimento e deploy.
+
+Também desenvolvo projetos mobile utilizando **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
+
+Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **PJ ou CLT**, projetos e colaborações.
 
 ---
 
 ## 📚 O que você vai encontrar aqui?
 
-Este GitHub é mais do que um repositório de código: reflete minha trajetória e meu compromisso com um desenvolvimento limpo e com propósito.
+Este GitHub representa minha trajetória como desenvolvedor e reúne projetos, estudos e experimentos relacionados ao desenvolvimento de software.
 
-- Projetos reais, usados por clientes em produção
-- APIs REST documentadas com OpenAPI
-- Validação e tipagem de ponta a ponta com TypeScript e Zod
-- Experimentos, estudos técnicos e boas práticas do dia a dia
+Aqui você encontrará:
+
+* Projetos reais e aplicações em produção
+* APIs REST desenvolvidas com **Node.js e Fastify**
+* Aplicações web com **Next.js e React**
+* Interfaces responsivas utilizando **HTML, CSS e Tailwind CSS**
+* Validação e tipagem de ponta a ponta com **TypeScript e Zod**
+* APIs documentadas com **OpenAPI / Swagger**
+* Integração com bancos PostgreSQL utilizando **Prisma**
+* Autenticação e autorização
+* Integrações com serviços externos
+* Estudos de arquitetura e boas práticas
+* Experimentos com novas tecnologias
 
 ---
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Servix**](https://www.servix.app.br) | SaaS multi-tenant de agendamento para barbearias, salões e estética, com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js 16, Prisma, PostgreSQL, Better Auth, Stripe |
-| [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Microsserviço que conecta o WhatsApp de cada profissional e envia a agenda para grupos | Fastify, Baileys, TypeScript |
-| [**Products API**](https://github.com/WarleyCoutinho/api-products) | API REST de referência com autenticação por sessão, validação com Zod e docs OpenAPI | Fastify 5, Prisma 7, Better Auth |
-| [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products) | Painel de produtos consumindo a API com cliente gerado via Orval | Next.js 16, TanStack Query, shadcn/ui |
-| [**Portfólio**](https://github.com/WarleyCoutinho/warley-portfolio) | Meu portfólio pessoal, com projetos e contatos ([ver online](https://warley-portfolio.vercel.app/)) | Deploy na Vercel |
+| Projeto                                                                         | Descrição                                                                                                             | Stack                                                               |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [**Servix**](https://www.servix.app.br)                                         | Sistema de agendamento para barbearias, salões e profissionais, com recursos de pagamentos, calendário e notificações | Next.js, React, TypeScript, Prisma, PostgreSQL, Better Auth, Stripe |
+| [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Serviço responsável pela integração com WhatsApp e automação de notificações                                          | Node.js, Fastify, TypeScript, Baileys                               |
+| [**Products API**](https://github.com/WarleyCoutinho/api-products)              | API REST de referência com autenticação, validação, persistência e documentação                                       | Node.js, Fastify, TypeScript, Prisma, PostgreSQL, Better Auth       |
+| [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products)    | Aplicação web para gerenciamento de produtos consumindo uma API REST                                                  | Next.js, React, TypeScript, TanStack Query, shadcn/ui               |
+| [**Portfólio**](https://github.com/WarleyCoutinho/warley-portfolio)             | Meu portfólio pessoal com projetos, experiência e informações de contato                                              | Next.js, React, TypeScript, Tailwind CSS, Vercel                    |
 
 ---
 
 ## 🛠️ Tecnologias
 
-#### Front-end
+### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" alt="Front-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/21st.dev-000000?style=flat-square" alt="21st.dev" />
@@ -63,7 +94,6 @@ Este GitHub é mais do que um repositório de código: reflete minha trajetória
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
   <img src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide" />
-  <img src="https://img.shields.io/badge/Simple%20Icons-111111?style=flat-square&logo=simpleicons&logoColor=white" alt="Simple Icons" />
   <img src="https://img.shields.io/badge/next--themes-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next-themes" />
   <img src="https://img.shields.io/badge/Sonner-000000?style=flat-square" alt="Sonner" />
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
@@ -71,11 +101,12 @@ Este GitHub é mais do que um repositório de código: reflete minha trajetória
   <img src="https://img.shields.io/badge/Mobile%20First-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile First" />
 </p>
 
-#### Back-end & bancos de dados
+### Back-end & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="Back-end" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,postgres,prisma" alt="Node.js, Fastify, PostgreSQL e Prisma" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
@@ -87,7 +118,23 @@ Este GitHub é mais do que um repositório de código: reflete minha trajetória
   <img src="https://img.shields.io/badge/Orval-000000?style=flat-square" alt="Orval" />
 </p>
 
-#### Mobile
+### Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" alt="PostgreSQL e Prisma" />
+</p>
+
+* **PostgreSQL**
+* **Prisma ORM**
+* Modelagem relacional
+* Migrations
+* Queries e persistência de dados
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -95,25 +142,65 @@ Este GitHub é mais do que um repositório de código: reflete minha trajetória
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
-#### Integrações
+### Integrações
 
 <p>
-  <img src="https://img.shields.io/badge/WhatsApp%20API%20oficial-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API oficial" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   <img src="https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
-#### Infra & ferramentas
+### Infra & ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,pnpm" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,pnpm" alt="Git, GitHub, Docker, Vercel e pnpm" />
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
 </p>
+
+---
+
+## 🧩 Arquitetura e desenvolvimento
+
+Tenho interesse especial em construir aplicações com uma arquitetura clara e sustentável.
+
+### Front-end
+
+**HTML → CSS → JavaScript → TypeScript → React → Next.js**
+
+Priorizando:
+
+* Componentização
+* Responsividade
+* Acessibilidade
+* Server e Client Components
+* Gerenciamento de estado
+* Formulários tipados
+* Validação
+* Consumo de APIs
+* UI consistente e reutilizável
+
+### Back-end
+
+**Node.js → Fastify → TypeScript → Zod → Prisma → PostgreSQL**
+
+Priorizando:
+
+* APIs REST
+* Arquitetura modular
+* Validação de entrada
+* Tipagem forte
+* Autenticação
+* Autorização
+* Documentação OpenAPI
+* Tratamento de erros
+* Persistência relacional
+* Integrações externas
 
 ---
 
@@ -128,7 +215,7 @@ Este GitHub é mais do que um repositório de código: reflete minha trajetória
 
 ## 📫 Vamos conversar?
 
-Encontre-me no LinkedIn para uma descrição mais detalhada da minha experiência e trajetória. Se quiser conversar, colaborar ou tirar dúvidas, é só [me mandar um e-mail](mailto:contatoadapticode@gmail.com) ou me chamar nas redes. Estou sempre aberto a boas conversas e oportunidades interessantes.
+Se quiser conhecer melhor meu trabalho, experiência ou projetos, você pode me encontrar nos canais abaixo.
 
 <p>
   <a href="https://www.linkedin.com/in/coutinho-warley">
