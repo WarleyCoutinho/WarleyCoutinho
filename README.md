@@ -10,12 +10,10 @@
 
 **Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
 
-Construo aplicações web, APIs, automações e soluções sob medida, atuando desde a arquitetura e modelagem de dados até o desenvolvimento do frontend, backend e integrações.
-
-Sou fundador da **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis - GO, onde desenvolvo soluções digitais para negócios e produtos próprios.
+Construo aplicações web, APIs, apps mobile, automações e soluções sob medida, atuando desde a arquitetura e modelagem de dados até o desenvolvimento do frontend, backend, integrações e deploy. Em Anápolis - GO.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/coutinho-warley">
+  <a href="https://www.linkedin.com/in/coutinhowarley">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://warley-portfolio.vercel.app/">
@@ -24,7 +22,7 @@ Sou fundador da **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis -
   <a href="https://www.instagram.com/warlycoutinho/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:contatoadapticode@gmail.com">
+  <a href="mailto:warleycoutinho@icloud.com">
     <img src="https://img.shields.io/badge/-Enviar%20mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
@@ -33,11 +31,13 @@ Sou fundador da **[Adapti Code](https://www.adapticode.com.br)**, em Anápolis -
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou **Engenheiro de Software Full Stack**, com cerca de 5 anos de experiência no desenvolvimento de sistemas e aplicações modernas.
+Sou **Engenheiro de Software Full Stack**, com 5+ anos de experiência no desenvolvimento de sistemas e aplicações modernas. Atuei em soluções de Indústria 4.0 (Avaloon e Rancheiro) e hoje desenvolvo produtos de forma independente, da modelagem do banco ao app no celular.
+
+Meu principal produto é o **Servix**, plataforma SaaS de agendamento para salões, barbearias e clínicas de estética, em produção em 5 negócios, com web (Next.js), mobile (React Native) e API (Fastify, Prisma, PostgreSQL). Lembretes automáticos via WhatsApp e sincronização com Google Calendar contribuíram para uma redução de ~90% nas faltas (no-shows). Também entrego projetos sob demanda para pequenos negócios, do levantamento de requisitos ao deploy.
 
 Minha atuação envolve principalmente **frontend, backend, APIs, banco de dados, integrações e automações**, sempre buscando código limpo, tipado e arquiteturas fáceis de manter e evoluir.
 
-No desenvolvimento web, trabalho principalmente com:
+No desenvolvimento, trabalho principalmente com:
 
 * **HTML, CSS e JavaScript**
 * **TypeScript**
@@ -50,11 +50,9 @@ No desenvolvimento web, trabalho principalmente com:
 * **Integrações com serviços externos**
 * **Docker e ambientes de produção**
 
-Sou fundador da **Adapti Code**, onde desenvolvo soluções digitais sob medida e produtos próprios, atuando de ponta a ponta — da ideia e arquitetura ao desenvolvimento e deploy.
-
 Também desenvolvo aplicações mobile com **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
 
-Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **PJ ou CLT**, projetos e colaborações.
+Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **CLT ou PJ** como Software Engineer, Backend Engineer ou Full Stack Engineer.
 
 ---
 
@@ -80,13 +78,13 @@ Aqui você encontrará:
 
 ## 🚀 Projetos em destaque
 
-| Projeto                                                                         | Descrição                                                                                                             | Stack                                                               |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [**Servix**](https://www.servix.app.br)                                         | Sistema de agendamento para barbearias, salões e profissionais, com recursos de pagamentos, calendário e notificações | Next.js, React, TypeScript, Prisma, PostgreSQL, Better Auth, Stripe |
-| [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Serviço responsável pela integração com WhatsApp e automação de notificações                                          | Node.js, Fastify, TypeScript, Baileys                               |
-| [**Products API**](https://github.com/WarleyCoutinho/api-products)              | API REST de referência com autenticação, validação, persistência e documentação                                       | Node.js, Fastify, TypeScript, Prisma, PostgreSQL, Better Auth       |
-| [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products)    | Aplicação web para gerenciamento de produtos consumindo uma API REST                                                  | Next.js, React, TypeScript, TanStack Query, shadcn/ui               |
-| [**Portfólio**](https://github.com/WarleyCoutinho/warley-portfolio)             | Meu portfólio pessoal com projetos, experiência e informações de contato                                              | Next.js, React, TypeScript, Tailwind CSS, Vercel                    |
+| Projeto | Descrição | Stack |
+| --- | --- | --- |
+| [**Servix**](https://www.servix.app.br) | SaaS multi-tenant de agendamento para salões, barbearias e clínicas de estética (web, mobile e API), com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js, React Native, Fastify, Prisma, PostgreSQL, Better Auth, Stripe |
+| [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Microsserviço que conecta o WhatsApp de cada profissional e envia a agenda para grupos | Node.js, Fastify, TypeScript, Baileys |
+| [**Products API**](https://github.com/WarleyCoutinho/api-products) | API REST de referência com autenticação, validação, persistência e documentação | Node.js, Fastify, TypeScript, Prisma, PostgreSQL, Better Auth |
+| [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products) | Aplicação web para gerenciamento de produtos consumindo uma API REST | Next.js, React, TypeScript, TanStack Query, shadcn/ui |
+| [**Portfólio**](https://github.com/WarleyCoutinho/warley-portfolio) | Meu portfólio pessoal com projetos, experiência e informações de contato | Next.js, React, TypeScript, Tailwind CSS, Vercel |
 
 ---
 
@@ -159,7 +157,7 @@ Desenvolvimento de aplicações mobile com **React Native** e **TypeScript**.
 ### 🔗 Integrações
 
 <p>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp%20API%20oficial-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp API oficial" />
   <img src="https://img.shields.io/badge/Google%20Calendar%20API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar API" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
@@ -275,7 +273,7 @@ Alguns princípios que procuro aplicar nos meus projetos:
 Se quiser conhecer melhor meu trabalho, experiência ou projetos, você pode me encontrar nos canais abaixo.
 
 <p>
-  <a href="https://www.linkedin.com/in/coutinho-warley">
+  <a href="https://www.linkedin.com/in/coutinhowarley">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -284,10 +282,10 @@ Se quiser conhecer melhor meu trabalho, experiência ou projetos, você pode me 
   </a>
 
   <a href="https://www.adapticode.com.br">
-    <img src="https://img.shields.io/badge/Adapti%20Code-4F46E5?style=for-the-badge" alt="Adapti Code" />
+    <img src="https://img.shields.io/badge/Projetos%20sob%20demanda-4F46E5?style=for-the-badge" alt="Projetos sob demanda" />
   </a>
 
-  <a href="mailto:contatoadapticode@gmail.com">
+  <a href="mailto:warleycoutinho@icloud.com">
     <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 
