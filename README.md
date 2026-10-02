@@ -242,12 +242,12 @@ Alguns princípios que procuro aplicar nos meus projetos:
 * **KISS**
 * **Type Safety**
 * **Separation of Concerns**
-* **Código simples e legível**
 * **Arquitetura modular**
 * **Validação de dados**
 * **Documentação de APIs**
 * **Testabilidade**
 * **Manutenibilidade**
+
 
 ---
 
