@@ -10,7 +10,7 @@
 
 **Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
 
-Construo aplicações web, APIs, apps mobile, automações e soluções sob medida, atuando desde a arquitetura e modelagem de dados até o desenvolvimento do frontend, backend, integrações e deploy. Em Anápolis - GO.
+Construo aplicações web, APIs, apps mobile, automações e soluções sob medida, atuando desde a arquitetura e modelagem de dados até o desenvolvimento do frontend, backend, integrações e deploy. Desde 2026, trabalho de forma independente, em Anápolis - GO.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/coutinhowarley">
@@ -31,9 +31,9 @@ Construo aplicações web, APIs, apps mobile, automações e soluções sob medi
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou **Engenheiro de Software Full Stack**, com 5+ anos de experiência no desenvolvimento de sistemas e aplicações modernas. Atuei em soluções de Indústria 4.0 (Avaloon e Rancheiro) e hoje desenvolvo produtos de forma independente, da modelagem do banco ao app no celular.
+Sou **Engenheiro de Software Full Stack**, com 5+ anos de experiência no desenvolvimento de sistemas e aplicações modernas. Atuei em soluções de Indústria 4.0 (Avaloon e Rancheiro) e desde 2026 desenvolvo produtos de forma independente, da modelagem do banco ao app no celular.
 
-Meu principal produto é o **Servix**, plataforma SaaS de agendamento para salões, barbearias e clínicas de estética, em produção em 5 negócios, com web (Next.js), mobile (React Native) e API (Fastify, Prisma, PostgreSQL). Lembretes automáticos via WhatsApp e sincronização com Google Calendar contribuíram para uma redução de ~90% nas faltas (no-shows). Também entrego projetos sob demanda para pequenos negócios, do levantamento de requisitos ao deploy.
+Meu principal produto é o **Servix**, uma plataforma SaaS de agendamento para salões, barbearias e clínicas de estética, em produção desde 2026 em 5 negócios, com web (Next.js) e API (Fastify, Prisma, PostgreSQL). Lembretes automáticos via WhatsApp e sincronização com Google Calendar contribuíram para uma redução de ~90% nas faltas (no-shows). Também entrego projetos sob demanda para pequenos negócios, do levantamento de requisitos ao deploy.
 
 Minha atuação envolve principalmente **frontend, backend, APIs, banco de dados, integrações e automações**, sempre buscando código limpo, tipado e arquiteturas fáceis de manter e evoluir.
 
@@ -50,7 +50,7 @@ No desenvolvimento, trabalho principalmente com:
 * **Integrações com serviços externos**
 * **Docker e ambientes de produção**
 
-Também desenvolvo aplicações mobile com **React Native**, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
+Também desenvolvo apps mobile (iOS e Android) com **React Native** quando o projeto pede, além de trabalhar com integrações como WhatsApp, Google Calendar, pagamentos e outros serviços.
 
 Estou sempre estudando novas tecnologias e buscando evoluir tecnicamente. Estou aberto a oportunidades **CLT ou PJ** como Software Engineer, Backend Engineer ou Full Stack Engineer.
 
@@ -80,7 +80,7 @@ Aqui você encontrará:
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [**Servix**](https://www.servix.app.br) | SaaS multi-tenant de agendamento para salões, barbearias e clínicas de estética (web, mobile e API), com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js, React Native, Fastify, Prisma, PostgreSQL, Better Auth, Stripe |
+| [**Servix**](https://www.servix.app.br) | SaaS multi-tenant de agendamento para salões, barbearias e clínicas de estética (web e API), com pagamentos via Stripe, Google Calendar e notificações no WhatsApp | Next.js, Fastify, Prisma, PostgreSQL, Better Auth, Stripe |
 | [**Servix WhatsApp Server**](https://github.com/WarleyCoutinho/whatsapp-server) | Microsserviço que conecta o WhatsApp de cada profissional e envia a agenda para grupos | Node.js, Fastify, TypeScript, Baileys |
 | [**Products API**](https://github.com/WarleyCoutinho/api-products) | API REST de referência com autenticação, validação, persistência e documentação | Node.js, Fastify, TypeScript, Prisma, PostgreSQL, Better Auth |
 | [**Products Frontend**](https://github.com/WarleyCoutinho/frontend-products) | Aplicação web para gerenciamento de produtos consumindo uma API REST | Next.js, React, TypeScript, TanStack Query, shadcn/ui |
@@ -150,7 +150,7 @@ Aqui você encontrará:
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-Desenvolvimento de aplicações mobile com **React Native** e **TypeScript**.
+Apps mobile (iOS e Android) com **React Native** e **TypeScript**, sob demanda.
 
 ---
 
@@ -222,7 +222,7 @@ Priorizando:
 
 **React Native → TypeScript**
 
-Desenvolvendo aplicações mobile com foco em:
+Nos apps mobile, priorizo:
 
 * Reutilização de código
 * Componentização
@@ -242,12 +242,12 @@ Alguns princípios que procuro aplicar nos meus projetos:
 * **KISS**
 * **Type Safety**
 * **Separation of Concerns**
+* **Código simples e legível**
 * **Arquitetura modular**
 * **Validação de dados**
 * **Documentação de APIs**
 * **Testabilidade**
 * **Manutenibilidade**
-
 
 ---
 
