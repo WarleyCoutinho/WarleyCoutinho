@@ -1,12 +1,11 @@
 # Olá, meu nome é Warley Coutinho! 👋
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=16" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,prisma,docker,git,github,vercel,pnpm&perline=16" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Prisma, Docker, Git, GitHub, Vercel e pnpm" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://cdn.simpleicons.org/fastify/000000" width="48" height="48" alt="Fastify" />
 </p>
 
 **Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
@@ -101,7 +100,6 @@ Aqui você encontrará:
 
 <p>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/21st.dev-000000?style=flat-square" alt="21st.dev" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
@@ -118,10 +116,10 @@ Aqui você encontrará:
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="Node.js, PostgreSQL e Prisma" />
+  <img src="https://cdn.simpleicons.org/fastify/000000" width="48" height="48" alt="Fastify" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Microservices-326CE5?style=flat-square" alt="Microservices" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
