@@ -1,3 +1,9 @@
+Sim. O Fastify ficou preto porque o `Simple Icons` recebeu `000000`. No GitHub em **modo escuro**, isso praticamente desaparece.
+
+Vou usar o ícone do Fastify em **branco**, que funciona melhor no dark mode. E na seção Mobile deixei **somente React Native**, removendo iOS e Android.
+
+Também removi a repetição desnecessária do React Native no topo: ele fica na seção Mobile.
+
 # Olá, meu nome é Warley Coutinho! 👋
 
 <p>
@@ -5,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/fastify/000000" width="48" height="48" alt="Fastify" />
+  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="48" height="48" alt="Fastify" />
 </p>
 
 **Engenheiro de Software Full Stack**, com foco em **TypeScript, Node.js, Fastify, Next.js, React e PostgreSQL**.
@@ -116,7 +122,7 @@ Aqui você encontrará:
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma" alt="Node.js, PostgreSQL e Prisma" />
-  <img src="https://cdn.simpleicons.org/fastify/000000" width="48" height="48" alt="Fastify" />
+  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" width="48" height="48" alt="Fastify" />
 </p>
 
 <p>
@@ -150,11 +156,9 @@ Aqui você encontrará:
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
 </p>
 
-**React Native** para desenvolvimento de aplicações mobile para **iOS e Android**.
+**React Native** para desenvolvimento de aplicações mobile.
 
 ---
 
@@ -224,7 +228,7 @@ Priorizando:
 
 ### Mobile
 
-**React Native → TypeScript → iOS + Android**
+**React Native → TypeScript**
 
 Desenvolvendo aplicações mobile com foco em:
 
