@@ -154,7 +154,7 @@ Apps mobile (iOS e Android) com **React Native** e **TypeScript**, sob demanda.
 ## 📊 Atividade
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WarleyCoutinho&theme=dracula" alt="Gráfico de atividade do GitHub" />
+  <img src="https://ghchart.rshah.org/6D28D9/WarleyCoutinho" alt="Gráfico de contribuições do GitHub" />
 </p>
 
 ---
