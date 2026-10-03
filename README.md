@@ -111,6 +111,7 @@ Minha atuação envolve principalmente **frontend, backend, APIs, banco de dados
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 Apps mobile (iOS e Android) com **React Native** e **TypeScript**, sob demanda.
